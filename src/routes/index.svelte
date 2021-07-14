@@ -4,10 +4,10 @@
     import TableContainer from "../components/TableContainer.svelte";
 </script>
 
-<style>
-
+<style global>
+    @import "../static/extra.css";
+    @import "../static/global.css";
 </style>
-
 <CovidState />
 <CovidChart />
 <TableContainer />

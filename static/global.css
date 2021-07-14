@@ -1,0 +1,5 @@
+@media(min-width : 769px){
+    nav{
+        border-bottom: 1px solid gray;
+    }
+}
