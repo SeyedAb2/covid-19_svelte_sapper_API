@@ -19,3 +19,7 @@ h1{
 .columns{
     border: 1px solid black;
 }
+.message-error{
+		
+    margin: 40px;
+}
