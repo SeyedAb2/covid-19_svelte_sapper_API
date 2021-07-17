@@ -32,6 +32,6 @@
         </h1>
     </div>
 </div>
-<CovidState />
+<CovidState {...usStats}/>
 <CovidChart />
 <TableContainer />

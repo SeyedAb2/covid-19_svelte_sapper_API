@@ -7,4 +7,4 @@ async function usStats(){
 }
 export default{
     usStats,
-}
+}   
