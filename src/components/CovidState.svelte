@@ -7,7 +7,6 @@
     export let hospitalized;
     export let icu;
     export let ventilator;
-
 </script>
 <style>
     @import "../../static/global.css";
